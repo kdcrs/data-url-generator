@@ -1,4 +1,4 @@
-# https://kdcrs.github.io
+# https://kdcrs.github.io/data-url-generator
 generates data: links that contain html code. these links are unable to be blocked.
 
 ## data url generator
